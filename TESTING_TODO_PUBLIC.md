@@ -12,3 +12,4 @@ Testing in progress.
 - [ ] Improve doppelganger pathing so mannequins can jump while chasing or fleeing.
 - [ ] Add `/gc help` with a command and permission reference.
 - [ ] Tune progression pacing to fit the intended video format.
+- [ ] Add a debug section to the Admin GUI for testing purposes.
