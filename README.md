@@ -104,6 +104,7 @@ These are follow-up items, not features of v1.0.5:
 - Add a convenient Admin GUI keybind/shortcut. A true client-side keybind may require client-side support; the current GUI is opened with `/gc gui`.
 - Refine Stage 5 presentation so affected players do not see the corruption notices, while preserving the observer/exemption behavior.
 - Audit and tune module sounds, pitches, and volumes.
+- Add a debug section to the Admin GUI for testing purposes.
 
 ## Testing
 
