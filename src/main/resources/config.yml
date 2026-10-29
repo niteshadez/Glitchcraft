@@ -1,0 +1,10 @@
+# Player names or UUIDs listed here are ignored by all GlitchCraft effects.
+exempt-players: []
+
+auto-progression:
+  enabled: true
+
+progression:
+  min-stage-delay-seconds: 300
+  max-stage-delay-seconds: 720
+  max-global-stage: 5

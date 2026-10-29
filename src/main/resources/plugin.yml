@@ -1,0 +1,15 @@
+name: GlitchCraft
+version: '${version}'
+main: com.donismp.glitchcraft.GlitchCraft
+api-version: '1.21'
+description: Master control gaslight and visual corruption engine for Doni Bobes SMP.
+author: Garrett
+commands:
+  glitchcraft:
+    description: Open GlitchCraft controls, Stalker diagnostics, or the apocalypse finale.
+    aliases: [gc]
+    permission: glitchcraft.admin
+permissions:
+  glitchcraft.admin:
+    description: Allows access to the GlitchCraft admin control panel.
+    default: op
