@@ -82,7 +82,7 @@ Edit `plugins/GlitchCraft/config.yml`:
 
 ```yaml
 exempt-players:
-  - Doni
+  - Notch
 
 auto-progression:
   enabled: true
