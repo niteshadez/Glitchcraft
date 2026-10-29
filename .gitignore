@@ -19,3 +19,6 @@ hs_err_pid*
 
 # Common working directory
 run
+
+# Local testing checklist; publish the sanitized public version instead
+TESTING_TODO.md
