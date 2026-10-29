@@ -2,7 +2,7 @@
 
 **Release:** v1.0.5
 
-GlitchCraft is a Paper plugin for Minecraft 1.21.11 that creates a staged, configurable glitch-Troll experience. It uses Java 21, Paper APIs, and Adventure components. Many visual block effects are client-side only so they do not alter saved terrain.
+GlitchCraft is a Paper plugin for Minecraft 1.21.11 that creates a staged, configurable glitch-troll experience. It uses Java 21, Paper APIs, and Adventure components. Many visual block effects are client-side only so they do not alter saved terrain.
 
 ## Requirements
 
